@@ -1,6 +1,10 @@
 /*Inclui imagen gif extraida de la libreria "GifAnimation" de la siguiente pagina 
-https://github.com/extrapixel/gif-animation/tree/3.0*, la adjuntare 
-a mis carpetas de github*/
+https://github.com/extrapixel/gif-animation/tree/3.0*/
+/*Tengo un problema que desconozco el como solucionarlo, creo haber hecho bien el codigo y me marca "Unexpected token",
+ya intente reacomodar pero me sigue saliendo, le he dedicado tiempo y esfuerzo al proyecto pero de verdad no se como solucionar este 
+problema, posiblemente piense que "porqué no fui a asesoría, pero el asunto es que no me aparecía este error antes y me calló de 
+repente, espero pueda ayudarme a solucionarlo y le pido que por favor me diga si tengo algun otro error porque creo haberlo hecho de la manera 
+que se debe*/
 import gifAnimation.*;
 import dff.minim.*;
  
